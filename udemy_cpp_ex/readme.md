@@ -1,1 +1,2 @@
-# repo for file storage
+# repo for file storage from C++ course
+- just because it's very difficult to type there...
